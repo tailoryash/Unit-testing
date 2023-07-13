@@ -1,4 +1,6 @@
 HELP.md
+README.md
+.gitignore
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
