@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.simform.hibernate1.Hibernate1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.836 s - in com.simform.hibernate1.Hibernate1ApplicationTests

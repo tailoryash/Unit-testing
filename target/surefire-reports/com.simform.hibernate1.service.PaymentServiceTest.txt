@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.simform.hibernate1.service.PaymentServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.305 s - in com.simform.hibernate1.service.PaymentServiceTest

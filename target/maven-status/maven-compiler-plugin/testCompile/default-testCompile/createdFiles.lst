@@ -1,0 +1,4 @@
+com/simform/hibernate1/Hibernate1ApplicationTests.class
+com/simform/hibernate1/controller/PaymentControllerTest.class
+com/simform/hibernate1/service/PaymentServiceTest.class
+com/simform/hibernate1/repository/PaymentInfoRepositoryTest.class
